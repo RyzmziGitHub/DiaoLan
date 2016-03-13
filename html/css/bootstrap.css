@@ -1945,6 +1945,7 @@ pre code {
   }
   .col-md-6 {
     width: 50%;
+    height: 250px;
   }
   .col-center {
     width: 100%;

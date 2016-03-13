@@ -1463,7 +1463,7 @@ div#portfolio {
   height: 219px;
   background: rgba(0, 89, 142, 0.58) url(../images/zoom-icon.png) center center no-repeat;
   cursor: pointer;
-  transition: all .2s ease-in-out;
+  transition: all .2s -in-outease;
   -webkit-transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   -o-transition: all .2s ease-in-out;
